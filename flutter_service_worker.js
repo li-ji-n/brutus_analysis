@@ -3,7 +3,19 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
+  "assets/AssetManifest.json": "31381542b9be6335057b3c507cc6bafd",
+"assets/assets/brtus.jpg": "4e892603b721d0f1c277ad1dea73cdd2",
+"assets/assets/deploying.jpg": "19ca6519bc70587735da762a76196aa0",
+"assets/assets/drone.png": "13d813d7320fb4a5f596bc940577ba5f",
+"assets/assets/pipeline.jpg": "98d61737645bf2340ceed873f3fdb509",
+"assets/assets/r1.jpg": "be00c10d7731879cc07d8eb04972a415",
+"assets/assets/r2.jpg": "bc3288af46a96a1b656da7a5e6159524",
+"assets/assets/r3.jpg": "01abc4ddfc9c46c45676f125d383502a",
+"assets/assets/r4.jpg": "ef8a2702d0dd85b1733418b4a5d5b995",
+"assets/assets/samhar.jpg": "8c345961a78d50972e8bb26c89b19d2e",
+"assets/assets/scroll2.png": "ef69e72be784b597d5e794e527f9c867",
+"assets/assets/scroll3.png": "fdc83b3fdfa3e333b40b73c14875ade1",
+"assets/assets/scroll4.png": "9c319c28dccab4c9399c75ec47368098",
 "assets/FontManifest.json": "01700ba55b08a6141f33e168c4a6c22f",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
 "assets/LICENSE": "7f1df1ee47854388e684afc0845ea820",
@@ -13,7 +25,7 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "index.html": "5aaad0c8c61e9460e8ca8164119702d2",
 "/": "5aaad0c8c61e9460e8ca8164119702d2",
-"main.dart.js": "78d8f49b5f18fef45faf333e39ea1c51",
+"main.dart.js": "9c6f0f84b3adc5186b68bc85b994e71c",
 "manifest.json": "41614c10e50bcc866588abed91f1dccd"
 };
 
