@@ -38873,7 +38873,7 @@ L:function(a){var t=null,s=H.a(["assets/samhar.jpg","assets/scroll2.png","assets
 r=M.a8(T.cp(H.a([new K.uI(t),new L.xB(s,t),M.a8(new T.hs(C.t4,new T.a7(C.l,t,t,L.aj('" The sky is now trained "',A.a1(t,t,C.N.h(0,800),t,t,t,t,t,t,t,t,q.a/50,C.hT,C.ny,t,t,!0,t,t,t,t,t,t),t),t),t),t,t,t,t,r.a),new T.ti(t),new X.uC(t),new D.vr(t),new O.tM(t),new L.yy(t),new M.tW(t),new E.xf(t)],u.t),C.aZ,C.Q),t,t,t,t,t)
 return M.Uu(C.f2,new E.xw(!0,r,t),C.bc,t,0,t,t,C.fP)}}
 F.vt.prototype={
-L:function(a){return new S.o9(new A.uL(null),"Trying",null)}}
+L:function(a){return new S.o9(new A.uL(null),"Brutus",null)}}
 T.ti.prototype={
 L:function(a){var t,s,r,q,p,o,n=null,m=F.n(a,!1).a
 m=M.a8(L.aj("BRUTUS",A.a1(n,n,C.j,n,n,n,n,n,"Raleway",n,n,F.n(a,!1).a.a/36,n,C.G,n,n,!0,n,n,n,n,n,n),C.aT),n,n,n,n,m.a/2)
